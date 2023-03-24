@@ -8,4 +8,4 @@
 - 💬 Ask me about Go/Rust/Java/Temporal/Kubernetes/Architecture/DataEngineering/DataPlatforms
 - 📫 How to reach me: harsha@ekalavya.dev, h7kanna@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am currently just working on copying some bytes.
+- ⚡ Fun fact: I am currently working on just copying some bytes.
