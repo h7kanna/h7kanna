@@ -7,5 +7,4 @@
 - 🤔 ~I’m looking for help with UI/UX~
 - 💬 Ask me about Go/Rust/Java/Temporal/Kubernetes/Architecture/DataEngineering/DataPlatforms
 - 📫 How to reach me: harsha@denote.dev, h7kanna@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am currently working on just copying some bytes.
